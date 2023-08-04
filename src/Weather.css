@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.main{
+    
+    padding: 20px;
+
+}
+.appcool{
+    background-image: url('./imgs/cold-bg.jpg');
+    background-size: cover;
+    background-position: top;
+   
+}
+.appwarm{
+    background-image: url("./imgs/warm-bg.jpg");
+}
